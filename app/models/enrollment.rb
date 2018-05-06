@@ -8,8 +8,8 @@ class Enrollment < ApplicationRecord
 
   def self.highest_average_grade
     group(:student_id)
-    .average(:grade)
     .order("avg(grade) desc")
+    .average(:grade)
     .first
   end
 end
