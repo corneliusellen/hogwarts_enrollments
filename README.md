@@ -1,5 +1,5 @@
 # Hogwarts Enrollments
-The purpose of this respository to practice SQL and ActiveRecord in the Rails console and directly with the database. Follow along with [Part 1](https://www.ellencornelius.com/blog/2018/3/25/taking-the-guess-out-of-activerecord-part-1) and [Part 2](https://www.ellencornelius.com/blog/2018/4/22/taking-the-guess-out-of-activerecord-part-2) of the tutorial. This project uses PostgreSQL and Ruby on Rails to build a seeded database of Hogwarts School of Witchcraft and Wizardry enrollment data.
+The purpose of this respository to practice SQL and ActiveRecord in the Rails console and directly with the database. Follow along with [Part 1](https://www.ellencornelius.com/blog/2018/3/25/taking-the-guess-out-of-activerecord-part-1) and [Part 2](https://www.ellencornelius.com/blog/2018/4/22/taking-the-guess-out-of-activerecord-part-2) of my tutorial. This project uses PostgreSQL and Ruby on Rails to build a seeded database of Hogwarts School of Witchcraft and Wizardry enrollment data.
 
 ## Getting Started
 ### Prerequisites
