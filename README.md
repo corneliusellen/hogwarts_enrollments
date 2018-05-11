@@ -17,4 +17,4 @@ $ bundle install
 $ rake db:{create,migrate,seed}
 ```
 ## Schema
-
+![schema](https://github.com/corneliusellen/hogwarts_enrollments/blob/master/schema.png)
