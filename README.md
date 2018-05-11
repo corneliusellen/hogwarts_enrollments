@@ -15,7 +15,6 @@ Just kidding:
 ```
 $ bundle install
 $ rake db:{create,migrate,seed}
-
 ```
 ## Schema
 
