@@ -3,7 +3,7 @@ The purpose of this respository to practice SQL and ActiveRecord in the Rails co
 
 ## Getting Started
 ### Prerequisites
-You must have the following installed before begining: Rails, PostgreSQL and Bundler.
+You must have the following installed before beginning: Rails, PostgreSQL and Bundler.
 
 ### Installation
 Initial setup must be done before interacting with the database. After cloning this repository, run the following commands in the CLI:
@@ -17,7 +17,7 @@ $ bundle install
 $ rake db:{create,migrate,seed}
 ```
 
-### Usage
+## Usage
 To practice ActiveRecord queries or run existing ActiveRecord methods on the Student, Enrollment, Subject and Teacher models, connect to the Rails console:
 ```
 $ rails c
@@ -29,3 +29,6 @@ $ rails db
 
 ## Schema
 ![schema](https://github.com/corneliusellen/hogwarts_enrollments/blob/master/schema.png)
+
+## Author
+Ellen Cornelius. Check out more blog posts at [ellencornelius.com](https://www.ellencornelius.com/)
