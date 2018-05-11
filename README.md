@@ -16,5 +16,16 @@ Just kidding:
 $ bundle install
 $ rake db:{create,migrate,seed}
 ```
+
+### Usage
+To practice ActiveRecord queries or run existing ActiveRecord methods on the Student, Enrollment, Subject and Teacher models, connect to the Rails console:
+```
+$ rails c
+```
+To practice SQL queries, connect directly to the database:
+```
+$ rails db
+```
+
 ## Schema
 ![schema](https://github.com/corneliusellen/hogwarts_enrollments/blob/master/schema.png)
